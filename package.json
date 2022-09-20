@@ -1,0 +1,19 @@
+{
+  "name": "situs-link-gacor-2000-5000",
+  "version": "1.0.0",
+  "description": "testes",
+  "main": "index.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Melaniyanicam/psychic-couscous.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melaniyanicam/psychic-couscous/issues"
+  },
+  "homepage": "https://github.com/Melaniyanicam/psychic-couscous#readme"
+}
