@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Melaniyanicam/psychic-couscous.git"
+    "url": "http://github.com/Melaniyanicam/psychic-couscous"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Melaniyanicam/psychic-couscous/issues"
+    "url": "http://github.com/Melaniyanicam/psychic-couscous/issues"
   },
-  "homepage": "https://github.com/Melaniyanicam/psychic-couscous#readme"
+  "homepage": "http://github.com/Melaniyanicam/psychic-couscous#readme"
 }
